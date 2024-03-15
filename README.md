@@ -20,6 +20,6 @@ Feel free to reach out if you'd like to discuss collaboration opportunities, sha
 ### 📈 GitHub Stats
 
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NesrineSnoussi&theme=github_dark" alt="Nesrine Snoussi's GitHub Stats"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nesrine-snoussi&theme=github_dark" alt="Nesrine Snoussi's GitHub Stats"/>
 </div>
 
