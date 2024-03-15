@@ -17,4 +17,9 @@ I'm Nesrine Snoussi, a final year Engineering student with a passion for craftin
 - Email: [nesrine.snoussi@esprit.tn](mailto:youremail@example.com)
 
 Feel free to reach out if you'd like to discuss collaboration opportunities, share insights, or simply have a chat!
+### 📈 GitHub Stats
+
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NesrineSnoussi&theme=github_dark" alt="Nesrine Snoussi's GitHub Stats"/>
+</div>
 
