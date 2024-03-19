@@ -13,16 +13,11 @@ I'm Nesrine Snoussi, a final year Engineering student with a passion for craftin
 
 ## Get in Touch
 
-- LinkedIn: [Nesrine Snoussi ]([link](https://www.linkedin.com/in/nesrine-snoussi/))
+- LinkedIn: [Nesrine Snoussi]([link](https://www.linkedin.com/in/nesrine-snoussi/))
 - Email: [nesrine.snoussi@esprit.tn](mailto:youremail@example.com)
 
 Feel free to reach out if you'd like to discuss collaboration opportunities, share insights, or simply have a chat!
-### 📈 GitHub Stats
-
-<div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nesrine-snoussi&theme=github_dark" alt="Nesrine Snoussi's GitHub Stats"/>
-</div>
-## 📊 GitHub Language Statistics
+### 📊 GitHub Language Statistics
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nesrine-snoussi&layout=compact&theme=vision-friendly-dark" />
 </div>
