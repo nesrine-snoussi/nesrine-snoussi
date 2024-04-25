@@ -1,6 +1,8 @@
-# Hi there! 👋
+# Hello  👋
 
 I'm Nesrine Snoussi, a final year Engineering student with a passion for crafting robust and scalable software solutions. Currently, I'm diving into the world of DevOps as an intern, exploring the intersection of development and operations to streamline software delivery pipelines.
+<iframe width="560" height="315" src="[https://www.youtube.com/embed/VIDEO_ID](https://www.youtube.com/watch?v=eyj_N7bCniA)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## About Me 👩‍💻
 
