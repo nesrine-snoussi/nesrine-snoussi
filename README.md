@@ -1,4 +1,18 @@
-# Hello ! 
+
+
+<div align="center">
+    <h1 style="animation: wiggle 1s infinite; font-size: 2em;">Hello 👋</h1>
+    <style>
+        @keyframes wiggle {
+            0% { transform: rotate(0deg); }
+            25% { transform: rotate(-5deg); }
+            50% { transform: rotate(0deg); }
+            75% { transform: rotate(5deg); }
+            100% { transform: rotate(0deg); }
+        }
+    </style>
+</div>
+
 
 
 I'm Nesrine Snoussi, a final year Engineering student with a passion for crafting robust and scalable software solutions. Currently, I'm diving into the world of DevOps as an intern, exploring the intersection of development and operations to streamline software delivery pipelines.
