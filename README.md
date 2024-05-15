@@ -22,7 +22,7 @@ I'm Nesrine Snoussi, a final year Engineering student with a passion for craftin
 
 ## Get in Touch 📧
 
-- LinkedIn: [Nesrine Snoussi]([link](https://www.linkedin.com/in/nesrine-snoussi/))
+- LinkedIn: [Nesrine Snoussi](https://www.linkedin.com/in/nesrine-snoussi/)
 - Email: [nesrine.snoussi@esprit.tn](mailto:youremail@example.com)
 
 Feel free to reach out if you'd like to discuss collaboration opportunities, share insights, or simply have a chat!
