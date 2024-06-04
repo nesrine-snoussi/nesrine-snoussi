@@ -13,9 +13,7 @@ pipelines. I'm eagerly seeking my first job opportunity as a Software Engineer.
 
 - 💼 Currently interning as a DevOps Engineer, focusing on automating deployment processes and improving system reliability.
 - 🎓 Final year Engineering student pursuing a degree in Software Engineering from ESPRIT.
-- 💻 Proficient in Java, with extensive experience in building applications and designing scalable architectures.
 - 🚀 Experienced with Spring Boot, leveraging its power to rapidly develop and deploy microservices.
-- 🤖 Passionate about machine learning, exploring its applications in various domains and experimenting with algorithms.
 - 🌱 Always eager to learn and explore new technologies to stay updated with the rapidly evolving tech landscape.
 
 ## Languages and Tools 🚀
