@@ -1,6 +1,8 @@
 ## Hello 👋
 
-I'm Nesrine Snoussi, a final year Engineering student with a passion for crafting robust and scalable software solutions. Currently, I'm diving into the world of DevOps as an intern, exploring the intersection of development and operations to streamline software delivery pipelines.
+A fresh engineering soul with a passion for crafting robust and scalable software solutions. Currently, I'm diving into
+the world of DevOps, exploring the intersection of development and operations to streamline software delivery
+pipelines. I'm eagerly seeking my first job opportunity as a Software Engineer.
 <div align="center">
     <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="337" alt="GIF Description">
 </div>
@@ -16,7 +18,7 @@ I'm Nesrine Snoussi, a final year Engineering student with a passion for craftin
 - 🤖 Passionate about machine learning, exploring its applications in various domains and experimenting with algorithms.
 - 🌱 Always eager to learn and explore new technologies to stay updated with the rapidly evolving tech landscape.
 
-## Skills
+## Languages and Tools 🚀
 
 <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="50" height="50"> <img src="https://spring.io/images/projects/spring-logo-2eabd24ccbfeaf6f88c86c96e9bc492c.svg" alt="Spring" width="50" height="50"> <img src="https://www.terraform.io/assets/images/og-image-8b3e4f7d.png" alt="Terraform" width="50" height="50"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="50" height="50"> <img src="https://expressjs.com/images/express-facebook-share.png" alt="Express.js" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="Node.js" width="50" height="50"> <img src="https://www.python.org/static/img/python-logo.png" alt="Python" width="50" height="50">
 
