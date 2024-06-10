@@ -3,7 +3,7 @@
 A fresh engineering soul with a passion for crafting robust and scalable software solutions. Currently, I'm diving into
 the world of DevOps, Developing Docker-Based SaaS for Automated App Deployment. I'm eagerly seeking my first job opportunity as a Software Engineer.
 <div align="center">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXBmbDVteXR6MmUydjJzM2hudHhpc3c3ZGF6NHIwcTVtZ241a2FxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.webp" width="600" height="337" alt="GIF Description">
+    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="337" alt="GIF Description">
    
 </div>
 
