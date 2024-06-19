@@ -1,4 +1,4 @@
-## Hello 👋
+## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+,+i'm+Nesrine+Snoussi)](https://git.io/typing-svg)
 
 A fresh engineering soul with a passion for crafting robust and scalable software solutions. Currently, I'm diving into
 the world of DevOps, Developing Docker-Based SaaS for Automated App Deployment. I'm eagerly seeking my first job opportunity as a Software Engineer.
